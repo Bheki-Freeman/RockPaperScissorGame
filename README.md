@@ -1,2 +1,3 @@
 # RockPaperScissorGame
-Rock Paper Scissors Game
+# Rock Paper Scissors Game
+# Send me your User names
